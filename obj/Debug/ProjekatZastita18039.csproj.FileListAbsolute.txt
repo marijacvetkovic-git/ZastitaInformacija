@@ -1,0 +1,10 @@
+C:\MARIJA\ProjekatZastita18039\bin\Debug\ProjekatZastita18039.exe.config
+C:\MARIJA\ProjekatZastita18039\bin\Debug\ProjekatZastita18039.exe
+C:\MARIJA\ProjekatZastita18039\bin\Debug\ProjekatZastita18039.pdb
+C:\MARIJA\ProjekatZastita18039\obj\Debug\ProjekatZastita18039.csproj.AssemblyReference.cache
+C:\MARIJA\ProjekatZastita18039\obj\Debug\ProjekatZastita18039.Form1.resources
+C:\MARIJA\ProjekatZastita18039\obj\Debug\ProjekatZastita18039.Properties.Resources.resources
+C:\MARIJA\ProjekatZastita18039\obj\Debug\ProjekatZastita18039.csproj.GenerateResource.cache
+C:\MARIJA\ProjekatZastita18039\obj\Debug\ProjekatZastita18039.csproj.CoreCompileInputs.cache
+C:\MARIJA\ProjekatZastita18039\obj\Debug\ProjekatZastita18039.exe
+C:\MARIJA\ProjekatZastita18039\obj\Debug\ProjekatZastita18039.pdb
